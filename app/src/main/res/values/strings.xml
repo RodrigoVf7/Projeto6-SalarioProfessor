@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SalarioProfessor</string>
+    <string name="matricula">Matrícula</string>
+    <string name="nome">Nome</string>
+</resources>
