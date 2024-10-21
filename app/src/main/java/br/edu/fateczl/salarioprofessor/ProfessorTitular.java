@@ -1,6 +1,12 @@
 package br.edu.fateczl.salarioprofessor;
 
 public class ProfessorTitular extends Professor {
+
+    /*
+     *@author: RODRIGO VINICIUS FERRAZ DA SILVA
+     *@RA: 1110482313043
+     */
+
     private int anosInstituicao;
     private double salario;
 

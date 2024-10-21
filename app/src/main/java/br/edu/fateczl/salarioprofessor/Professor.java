@@ -1,6 +1,12 @@
 package br.edu.fateczl.salarioprofessor;
 
 public abstract class Professor {
+
+    /*
+     *@author: RODRIGO VINICIUS FERRAZ DA SILVA
+     *@RA: 1110482313043
+     */
+
     private String nome;
     private String matricula;
     private int idade;

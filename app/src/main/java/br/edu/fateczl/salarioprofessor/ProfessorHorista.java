@@ -1,6 +1,12 @@
 package br.edu.fateczl.salarioprofessor;
 
 public class ProfessorHorista extends Professor {
+
+    /*
+     *@author: RODRIGO VINICIUS FERRAZ DA SILVA
+     *@RA: 1110482313043
+     */
+
     private int horasAula;
     private double valorHoraAula;
 

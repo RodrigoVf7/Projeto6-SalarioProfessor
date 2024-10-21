@@ -11,6 +11,11 @@ import android.annotation.SuppressLint;
 
 
 public class MainActivity extends AppCompatActivity {
+    /*
+     *@author: RODRIGO VINICIUS FERRAZ DA SILVA
+     *@RA: 1110482313043
+     */
+
 
     private EditText edtNome, edtMatricula, edtIdade, edtAnosInstituicao, edtSalarioBase, edtHorasAula, edtValorHora;
     private RadioButton rbTitular, rbHorista;
